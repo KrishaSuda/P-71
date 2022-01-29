@@ -1,0 +1,50 @@
+.travel_mainDiv {
+    border: 1px solid gray;
+    float: left;
+    width: 33.33%;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv h4,
+.travel_mainDiv h5,
+    {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+#marqueeStyle {
+    width="100%";
+    background-color: green;
+    color: white;
+    margin-top: -30px;
+}
+
+row:after {
+    content: "";
+    display: inline;
+}
+
+iframe {
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+
+.whats_new_li {
+    margin: 10px;
+}
